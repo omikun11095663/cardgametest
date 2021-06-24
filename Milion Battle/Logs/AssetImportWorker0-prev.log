@@ -15,11 +15,11 @@ D:/CardCommandRPG/Milion Battle
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53513
+61631
 Successfully changed project path to: D:/CardCommandRPG/Milion Battle
 D:/CardCommandRPG/Milion Battle
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 278.83 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 52.58 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.11f1 (99c7afb366b3)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
@@ -35,398 +35,926 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006535 seconds.
+Registered in 0.003975 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 42.82 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 46.11 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.528 seconds
+- Completed reload, in  3.208 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.239045 seconds.
+Registered in 0.006102 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.919 seconds
+- Completed reload, in  1.818 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.21 seconds
-Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 67.5 MB.
 System memory in use after: 67.5 MB.
 
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1828.
-Total: 4.513000 ms (FindLiveObjects: 0.276800 ms CreateObjectMapping: 0.097300 ms MarkObjects: 3.963600 ms  DeleteObjects: 0.171500 ms)
+Total: 3.628200 ms (FindLiveObjects: 0.194500 ms CreateObjectMapping: 0.064800 ms MarkObjects: 3.281300 ms  DeleteObjects: 0.085700 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Resources/Prefabs/DemoCard 1.prefab
-  artifactKey: Guid(ec651a886ad0fed47bcf789bb1341ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/DemoCard 1.prefab using Guid(ec651a886ad0fed47bcf789bb1341ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54a124d2e30549c502e3c6aad32f026') in 0.508911 seconds
-  Import took 0.660629 seconds .
+  path: Assets/Resources/Texture/CardFlame/frame003f.png
+  artifactKey: Guid(5c4197bd410300b4ba6f1901308279ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardFlame/frame003f.png using Guid(5c4197bd410300b4ba6f1901308279ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e83e295e0fc417853fd39f94f93fe6ff') in 0.226658 seconds
+  Import took 0.230498 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001568 seconds.
-  path: Assets/Resources/Prefabs/DemoCard 4.prefab
-  artifactKey: Guid(9f9f636cbfac2f146a2227078fa36194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/DemoCard 4.prefab using Guid(9f9f636cbfac2f146a2227078fa36194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42064231a09668f25f5d75bf8aa7a831') in 0.148723 seconds
-  Import took 0.213936 seconds .
+  Time since last request: 0.000463 seconds.
+  path: Assets/Resources/Texture/CardFlame/frame003h.png
+  artifactKey: Guid(eceaa9ce15d992d43afd6af54252d5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardFlame/frame003h.png using Guid(eceaa9ce15d992d43afd6af54252d5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5bd9dfff10cc871724be51c2fa0928f') in 0.083451 seconds
+  Import took 0.089494 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001071 seconds.
-  path: Assets/Resources/Prefabs/DemoCard 2.prefab
-  artifactKey: Guid(dd1d8d4d6418f5f429419c389e6676f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/DemoCard 2.prefab using Guid(dd1d8d4d6418f5f429419c389e6676f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9883f051b838db1dfa2f49883602c1e') in 0.169768 seconds
-  Import took 0.218709 seconds .
+  Time since last request: 0.000459 seconds.
+  path: Assets/Resources/Texture/CardFlame/frame003e.png
+  artifactKey: Guid(edf050d40f95d744fb64544b48161705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardFlame/frame003e.png using Guid(edf050d40f95d744fb64544b48161705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '913d2d0a7d0b273725b1b206c16cf610') in 0.070500 seconds
+  Import took 0.073818 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000917 seconds.
-  path: Assets/Resources/Prefabs/DemoCard 3.prefab
-  artifactKey: Guid(e452ff72b5125f14fa56f092129f1e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/DemoCard 3.prefab using Guid(e452ff72b5125f14fa56f092129f1e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b363cbbab688336bec41725e025de04') in 0.147646 seconds
-  Import took 0.241082 seconds .
+  Time since last request: 0.000430 seconds.
+  path: Assets/Resources/Texture/CardFlame/frame003d.png
+  artifactKey: Guid(35a8ec0d5ce8a31409bc3118545eb89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardFlame/frame003d.png using Guid(35a8ec0d5ce8a31409bc3118545eb89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b507d18e09e463a4daea897e2b01c7f') in 0.074463 seconds
+  Import took 0.089469 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000542 seconds.
-  path: Assets/Resources/Prefabs/DemoCard 5.prefab
-  artifactKey: Guid(e281b6e79179e7942804adc3c85eb82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/DemoCard 5.prefab using Guid(e281b6e79179e7942804adc3c85eb82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca2c80832e63107e42a0596f01ce27d') in 0.113666 seconds
-  Import took 0.207929 seconds .
+  Time since last request: 0.000437 seconds.
+  path: Assets/Resources/Texture/CardFlame/frame003i.png
+  artifactKey: Guid(cd9c4fa2ba6e4b34a9b9be4ca0f91d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardFlame/frame003i.png using Guid(cd9c4fa2ba6e4b34a9b9be4ca0f91d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4e7ec76bebea6dbbc7e4109524843a') in 0.082972 seconds
+  Import took 0.086274 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000864 seconds.
-  path: Assets/Resources
-  artifactKey: Guid(71c58118ef5f6634088831a92885d3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources using Guid(71c58118ef5f6634088831a92885d3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6eb417481ea478c5f2a184a106ca894') in 0.030224 seconds
-  Import took 0.051338 seconds .
+  Time since last request: 0.000413 seconds.
+  path: Assets/Resources/Texture/CardFlame/frame003c.png
+  artifactKey: Guid(c48acfa3ee77fc046b45280dae61bfe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardFlame/frame003c.png using Guid(c48acfa3ee77fc046b45280dae61bfe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1b4547401e56bd10a4b887780864abb') in 0.065695 seconds
+  Import took 0.068941 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001024 seconds.
-  path: Assets/Resources/Prefabs/Card.prefab
-  artifactKey: Guid(6c5a33fa13b6d8c478469972969bac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/Card.prefab using Guid(6c5a33fa13b6d8c478469972969bac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74d13c2e90dbf87d805c4a2b78a31d3c') in 0.141285 seconds
-  Import took 0.222064 seconds .
+  Time since last request: 0.000446 seconds.
+  path: Assets/Resources/Texture/CardFlame/frame003g.png
+  artifactKey: Guid(51c21a4401b1ac04587ef276768e5751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardFlame/frame003g.png using Guid(51c21a4401b1ac04587ef276768e5751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02b7098c6a5be5d51c6a86337a525bf') in 0.112793 seconds
+  Import took 0.116985 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000471 seconds.
-  path: Assets/Resources/Prefabs
-  artifactKey: Guid(20fa3cb570dda96418c03f02fb302408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs using Guid(20fa3cb570dda96418c03f02fb302408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb3a76ae79e648e742f68d25100566f') in 0.010884 seconds
-  Import took 0.036147 seconds .
+  Time since last request: 0.001083 seconds.
+  path: Assets/Resources/Texture/CardFlame/frame003j.png
+  artifactKey: Guid(841c1579e04b4034cad34089a129aba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardFlame/frame003j.png using Guid(841c1579e04b4034cad34089a129aba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc2ebcc0c710bc4d834bf1e3c838c172') in 0.072610 seconds
+  Import took 0.077769 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6412.338494 seconds.
-  path: Assets/Script/MainGameManager.cs
-  artifactKey: Guid(960f080d869efd246bc770b5e801830a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Script/MainGameManager.cs using Guid(960f080d869efd246bc770b5e801830a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097b63d447cf9658a7444b240cb2e824') in 0.035935 seconds
-  Import took 0.107667 seconds .
+  Time since last request: 3.571322 seconds.
+  path: Assets/Resources/MainCardEntityList/card1.asset
+  artifactKey: Guid(22499e487f3f0884cbcc31bf60c0271a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MainCardEntityList/card1.asset using Guid(22499e487f3f0884cbcc31bf60c0271a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88277e43779e8e33a71dcf6de399ea8') in 0.022044 seconds
+  Import took 0.025152 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 595.595978 seconds.
-  path: Assets/Script/MainCardController.cs
-  artifactKey: Guid(0e0e35db93a61d545b3efcfa170dad6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Script/MainCardController.cs using Guid(0e0e35db93a61d545b3efcfa170dad6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee7edec36160f0fcdf42e0a337a994b') in 0.016550 seconds
-  Import took 0.047324 seconds .
+  Time since last request: 0.114310 seconds.
+  path: Assets/Resources/MainCardEntityList/card2.asset
+  artifactKey: Guid(6526f4bdf8f96fd429a14ef965744277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MainCardEntityList/card2.asset using Guid(6526f4bdf8f96fd429a14ef965744277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318e121cafd0f18555cccc01f2402d1c') in 0.138899 seconds
+  Import took 0.142646 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 161.224638 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(de0202ca41923ad48990e4f38a5922b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(de0202ca41923ad48990e4f38a5922b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12220143db81ce6f45301d9f8b989c58') in 0.014616 seconds
-  Import took 0.074344 seconds .
+  Time since last request: 0.235974 seconds.
+  path: Assets/Resources/MainCardEntityList/card3.asset
+  artifactKey: Guid(96ec89a40439bde4693b4d507e2dcad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MainCardEntityList/card3.asset using Guid(96ec89a40439bde4693b4d507e2dcad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e77b02d3b365d6574da9f6080850f47') in 0.011574 seconds
+  Import took 0.014251 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.272238 seconds.
-  path: Assets/Scenes/Title.unity
-  artifactKey: Guid(3c9ba5f9103baa6468ba711e973ba701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Title.unity using Guid(3c9ba5f9103baa6468ba711e973ba701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78c6283ebaa97790b163fc6cf3075977') in 0.057598 seconds
-  Import took 0.073969 seconds .
+  Time since last request: 0.196908 seconds.
+  path: Assets/Resources/MainCardEntityList/card4.asset
+  artifactKey: Guid(f67657bb3cdc27a41b4918acff540d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MainCardEntityList/card4.asset using Guid(f67657bb3cdc27a41b4918acff540d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a132fe8098661902662f315613b1b44') in 0.011018 seconds
+  Import took 0.013765 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.453822 seconds.
-  path: Assets/Scenes/MainGame.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MainGame.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe51fd1a883292dd68bd4e45a76796e7') in 0.019222 seconds
-  Import took 0.024113 seconds .
+  Time since last request: 0.188190 seconds.
+  path: Assets/Resources/MainCardEntityList/card5.asset
+  artifactKey: Guid(7c68544f3700580478931a215413f120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MainCardEntityList/card5.asset using Guid(7c68544f3700580478931a215413f120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '286f1b1df3aabdd6e6358e82d8eb5c7a') in 0.012909 seconds
+  Import took 0.016580 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.573053 seconds.
-  path: Assets/Scenes/MainGame 1.unity
-  artifactKey: Guid(5c93fc9a11c968645b8f0ca132f19de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MainGame 1.unity using Guid(5c93fc9a11c968645b8f0ca132f19de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05c29c74a1ec29a820b13c91dc70d60') in 0.013725 seconds
-  Import took 0.037709 seconds .
+  Time since last request: 6.547425 seconds.
+  path: Assets/Resources/Texture/CardBack
+  artifactKey: Guid(35ac2e18612c7114291da60341b17e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack using Guid(35ac2e18612c7114291da60341b17e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01b0c7dd64fb10ebf41af7a0c4f467c8') in 0.025425 seconds
+  Import took 0.029407 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 14.887663 seconds.
-  path: Assets/Scenes/SampleGame.unity
-  artifactKey: Guid(5c93fc9a11c968645b8f0ca132f19de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleGame.unity using Guid(5c93fc9a11c968645b8f0ca132f19de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93fc5648d61b2bf32903331e2efa1166') in 0.036919 seconds
-  Import took 0.059134 seconds .
+  Time since last request: 0.051651 seconds.
+  path: Assets/Resources/Texture/CardBack/framebg005.png
+  artifactKey: Guid(c21da84bef38ff34b87d98a0629ea80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005.png using Guid(c21da84bef38ff34b87d98a0629ea80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad64c1f0df3576d61153b4926bf2c463') in 0.107058 seconds
+  Import took 0.114000 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 367.989948 seconds.
-  path: Assets/Resources/Texture
-  artifactKey: Guid(1150233a624c42e4f951a81c3b80e127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture using Guid(1150233a624c42e4f951a81c3b80e127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e1e2b0577b945ea47d7744806f81ff0') in 0.017232 seconds
-  Import took 0.054590 seconds .
+  Time since last request: 0.000489 seconds.
+  path: Assets/Resources/Texture/CardBack/framebg005b.png
+  artifactKey: Guid(27cbbd76e140a6647a56869e2eb99b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005b.png using Guid(27cbbd76e140a6647a56869e2eb99b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bd96fea680adc86d8520ba7ff36d70b') in 0.139771 seconds
+  Import took 0.143294 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.040706 seconds.
-  path: Assets/Resources/Texture/CostIcon.png
-  artifactKey: Guid(53307f8f62d9d4d49b86539b54e90f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CostIcon.png using Guid(53307f8f62d9d4d49b86539b54e90f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2256d7d63148b057eeb2738cd569179e') in 0.531019 seconds
-  Import took 0.619676 seconds .
+  Time since last request: 0.000390 seconds.
+  path: Assets/Resources/Texture/CardBack/framebg005j.png
+  artifactKey: Guid(01ef516e972411447a2c477d42282792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005j.png using Guid(01ef516e972411447a2c477d42282792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674f3a012ef779deff2218f37de60a6b') in 0.077048 seconds
+  Import took 0.079650 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000443 seconds.
-  path: Assets/Resources/Texture/pipo-WindowBaseSet2a_08.png
-  artifactKey: Guid(3c0cc8dcfefac7f40821775c8b7d8e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/pipo-WindowBaseSet2a_08.png using Guid(3c0cc8dcfefac7f40821775c8b7d8e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8059b9ca736d2405707706f5b8cd54fd') in 0.036949 seconds
-  Import took 0.053032 seconds .
+  Time since last request: 0.000536 seconds.
+  path: Assets/Resources/Texture/CardBack/framebg005a.png
+  artifactKey: Guid(2fb319d46be82fb499b3ff9d0fcc8344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005a.png using Guid(2fb319d46be82fb499b3ff9d0fcc8344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b938c4ca7cc57432881cfa4e65538fdc') in 0.128156 seconds
+  Import took 0.131115 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000475 seconds.
-  path: Assets/Resources/Texture/pipo-WindowBaseSet4a_03.png
-  artifactKey: Guid(af3a844f16997a54d803539c0104eef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/pipo-WindowBaseSet4a_03.png using Guid(af3a844f16997a54d803539c0104eef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bec3f6f6acc3e355b2a819bc918071e') in 0.050673 seconds
-  Import took 0.064567 seconds .
+  Time since last request: 0.000487 seconds.
+  path: Assets/Resources/Texture/CardBack/framebg005d.png
+  artifactKey: Guid(26598b7c8d6dc5843a75436aca9539e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005d.png using Guid(26598b7c8d6dc5843a75436aca9539e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6c938d548a1efd443c536ec56d09d7') in 0.061391 seconds
+  Import took 0.064090 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001022 seconds.
-  path: Assets/Resources/Texture/pipo-WindowBaseSet4b_02.png
-  artifactKey: Guid(031c03cf29050154590df59bffe64e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/pipo-WindowBaseSet4b_02.png using Guid(031c03cf29050154590df59bffe64e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d77516990eb46d94f82bd688e02f68') in 0.082016 seconds
-  Import took 0.097848 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000522 seconds.
-  path: Assets/Resources/Texture/pipo-WindowBaseSet2b_03.png
-  artifactKey: Guid(afcc9dea2c0a37c418b1e4137a83380c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/pipo-WindowBaseSet2b_03.png using Guid(afcc9dea2c0a37c418b1e4137a83380c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db080f4eacd1029f0e921fa7bb02ff68') in 0.033521 seconds
-  Import took 0.052623 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001312 seconds.
-  path: Assets/Resources/Texture/pipo-WindowBaseSet2b_03.png
-  artifactKey: Guid(afcc9dea2c0a37c418b1e4137a83380c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/pipo-WindowBaseSet2b_03.png using Guid(afcc9dea2c0a37c418b1e4137a83380c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db080f4eacd1029f0e921fa7bb02ff68') in 0.027645 seconds
-  Import took 0.033544 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.828608 seconds.
-  path: Assets/Resources/Texture/CardFlame
-  artifactKey: Guid(cadc4114c3b68b949befb6a4497367a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame using Guid(cadc4114c3b68b949befb6a4497367a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a50b72b632d931c5064d8104e939b82') in 0.019337 seconds
-  Import took 0.041274 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.066682 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame001a.png
-  artifactKey: Guid(e14d3b23b07dd024bb1cac0999754c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame001a.png using Guid(e14d3b23b07dd024bb1cac0999754c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f97bd6c65ceff5cf70da0459a1c2785') in 0.082068 seconds
-  Import took 0.103682 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000355 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame002a.png
-  artifactKey: Guid(5e88d4b17e4389f43ae7f77f57a6564d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame002a.png using Guid(5e88d4b17e4389f43ae7f77f57a6564d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86eb197697a155e1b0ac822f43bc8ca3') in 0.080147 seconds
-  Import took 0.125599 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000421 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame001f.png
-  artifactKey: Guid(f9399f82d60ef284aa52f93f9537684d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame001f.png using Guid(f9399f82d60ef284aa52f93f9537684d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f3b8f3913e03188a31ba7b1362fb6c') in 0.098149 seconds
-  Import took 0.101392 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000421 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame001b.png
-  artifactKey: Guid(8d89421d9da4b374a8a66d43bcc0854e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame001b.png using Guid(8d89421d9da4b374a8a66d43bcc0854e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89fefcfb85f756dd01c64af39870115d') in 0.107286 seconds
-  Import took 0.115792 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000323 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame001g.png
-  artifactKey: Guid(b266f68332e2ace45bfa3bf89b932657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame001g.png using Guid(b266f68332e2ace45bfa3bf89b932657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e8ebced904f36091341131589d701f') in 0.076714 seconds
-  Import took 0.079399 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000444 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame001d.png
-  artifactKey: Guid(5fafebd4ada4e4e49bc14c2e7a0442be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame001d.png using Guid(5fafebd4ada4e4e49bc14c2e7a0442be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c1647ba02f00f00fa53d8996ed9e85') in 0.094252 seconds
-  Import took 0.098511 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000414 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame002g.png
-  artifactKey: Guid(e3506b4d45748be44bc0f00c5b8719bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame002g.png using Guid(e3506b4d45748be44bc0f00c5b8719bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02347711b90fdf3de64d33272df9074f') in 0.116384 seconds
-  Import took 0.119481 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000509 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame001i.png
-  artifactKey: Guid(072ac01afe5207a43b7da793a67c07eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame001i.png using Guid(072ac01afe5207a43b7da793a67c07eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303bddc616e421d916ab6e3ac59d1322') in 0.064378 seconds
-  Import took 0.076352 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000435 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame003b.png
-  artifactKey: Guid(963293dafa950444b8d79004f151a508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame003b.png using Guid(963293dafa950444b8d79004f151a508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96f15b828ee1468f5898b7f36d1a0569') in 0.076880 seconds
-  Import took 0.086031 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000389 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame002d.png
-  artifactKey: Guid(ba77d4baeda17874daadb8aff345ff40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame002d.png using Guid(ba77d4baeda17874daadb8aff345ff40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0431d9c47605575bb5ee90242316b591') in 0.094062 seconds
-  Import took 0.103546 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000331 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame002h.png
-  artifactKey: Guid(1819cfd37057d164ba273bc1e90d9fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame002h.png using Guid(1819cfd37057d164ba273bc1e90d9fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310d071b0b726dbc1bc29d426b74892c') in 0.101523 seconds
-  Import took 0.108258 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002309 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame002c.png
-  artifactKey: Guid(38432448effab8c48883b3ce555d1bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame002c.png using Guid(38432448effab8c48883b3ce555d1bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b714de014014b3c6415c6ed4e21f47b') in 0.094158 seconds
-  Import took 0.099278 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000436 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame002e.png
-  artifactKey: Guid(0b28013301ba1db4da8830ac47cfd2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame002e.png using Guid(0b28013301ba1db4da8830ac47cfd2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e8c3e6324d86fe01efb35daa4a90c15') in 0.082431 seconds
-  Import took 0.086716 seconds .
+  Time since last request: 0.000422 seconds.
+  path: Assets/Resources/Texture/CardBack/framebg005i.png
+  artifactKey: Guid(842b8f278feebb143820082e5f8ec7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005i.png using Guid(842b8f278feebb143820082e5f8ec7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9f2bfb42daa49d10b40b78dad69011') in 0.070387 seconds
+  Import took 0.085504 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000347 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame002j.png
-  artifactKey: Guid(d5aa7121d50bd434d827ccc26eb2f785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame002j.png using Guid(d5aa7121d50bd434d827ccc26eb2f785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17194b9dc0c03991be9131d7acb22cd') in 0.078989 seconds
-  Import took 0.230883 seconds .
+  path: Assets/Resources/Texture/CardBack/framebg005h.png
+  artifactKey: Guid(fe48b79230a593b40af4838c4840d7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005h.png using Guid(fe48b79230a593b40af4838c4840d7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92e330809c9238aa4c10876fd822968f') in 0.124011 seconds
+  Import took 0.127760 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000669 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame001j.png
-  artifactKey: Guid(3dc40380649787e44b716a8ec045a7ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame001j.png using Guid(3dc40380649787e44b716a8ec045a7ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '934a176842b83d9edaa0f6bf76afd607') in 0.390461 seconds
-  Import took 0.395516 seconds .
+  Time since last request: 0.000382 seconds.
+  path: Assets/Resources/Texture/CardBack/framebg005e.png
+  artifactKey: Guid(2fe62ad6d94022a409d45ad03333f663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005e.png using Guid(2fe62ad6d94022a409d45ad03333f663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f38deebcf2ff061eda4638bfbf581935') in 0.108152 seconds
+  Import took 0.112040 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000369 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame002f.png
-  artifactKey: Guid(96affe984d741c6498e10a7735ba0905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame002f.png using Guid(96affe984d741c6498e10a7735ba0905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e23b9c145674c4392de40ee514a6036') in 0.533603 seconds
-  Import took 0.537871 seconds .
+  Time since last request: 0.000971 seconds.
+  path: Assets/Resources/Texture/CardBack/framebg005g.png
+  artifactKey: Guid(4aed3c799663003459c4a4ef8de0971f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005g.png using Guid(4aed3c799663003459c4a4ef8de0971f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129845f9d257c3d200c4d50014311ca3') in 0.085922 seconds
+  Import took 0.098359 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000509 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame002i.png
-  artifactKey: Guid(a2b0bfb8cd44dc44c9a6e0bc7ba2e13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame002i.png using Guid(a2b0bfb8cd44dc44c9a6e0bc7ba2e13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad1292ee5ec0de378ebe86056657a11') in 0.165418 seconds
-  Import took 0.169295 seconds .
+  Time since last request: 0.000772 seconds.
+  path: Assets/Resources/Texture/CardBack/framebg005c.png
+  artifactKey: Guid(4a3818d339184e24f8c18b8d244ade7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005c.png using Guid(4a3818d339184e24f8c18b8d244ade7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0893428bcfdf3076d0ec593742946ba1') in 0.105263 seconds
+  Import took 0.108625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Resources/Texture/CardBack/framebg005f.png
+  artifactKey: Guid(b057e6f62a84e8f4f8698a69cb8b04d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/CardBack/framebg005f.png using Guid(b057e6f62a84e8f4f8698a69cb8b04d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6875c2a1bf5abde0c366791a175d10e') in 0.093365 seconds
+  Import took 0.096225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.952763 seconds.
+  path: Assets/Resources/Texture/Static
+  artifactKey: Guid(80fe4c49cc57aff429b58b782be6b933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static using Guid(80fe4c49cc57aff429b58b782be6b933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'effa2d595d7fd72398a665c0594cee74') in 0.015174 seconds
+  Import took 0.018333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.989998 seconds.
+  path: Assets/Resources/Texture/Static/Front
+  artifactKey: Guid(1ba0cdbc2633df2498354a19001a0d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front using Guid(1ba0cdbc2633df2498354a19001a0d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde0dfab363b05095ba10a4b718ba54d') in 0.018891 seconds
+  Import took 0.024065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056188 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Axe Warrior Dwarf.png
+  artifactKey: Guid(7eca5eb76d1a9e4429a044ab8ff7efc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Axe Warrior Dwarf.png using Guid(7eca5eb76d1a9e4429a044ab8ff7efc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e865a58ae388970b0867ff1bc4ab3451') in 0.128188 seconds
+  Import took 0.131036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megpack III Drill Dwarf.png
+  artifactKey: Guid(ba725d29d5acae34491f20ef798aad04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megpack III Drill Dwarf.png using Guid(ba725d29d5acae34491f20ef798aad04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389f331eddf46b931843b2d329e9aca0') in 0.081156 seconds
+  Import took 0.084611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Behemoth.png
+  artifactKey: Guid(8d68bf6b48ccb7a4e833f51e08feec5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Behemoth.png using Guid(8d68bf6b48ccb7a4e833f51e08feec5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '625d70b51c44bc1f3b519c45e8022a91') in 0.142927 seconds
+  Import took 0.147256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Elemental Lords Fire Lord.png
+  artifactKey: Guid(37db3613ed51d024188d1cae32d3e59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Elemental Lords Fire Lord.png using Guid(37db3613ed51d024188d1cae32d3e59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7caf3711b82581e4a42982db3da03782') in 0.143955 seconds
+  Import took 0.149195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Void Gargoyle.png
+  artifactKey: Guid(a1f616cae7ad9e14ba2341f2d9ecda54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Void Gargoyle.png using Guid(a1f616cae7ad9e14ba2341f2d9ecda54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2dc8e9b684b6a6ec66b2da9b5569a0') in 0.169307 seconds
+  Import took 0.173196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Undead Warrior Benkei.png
+  artifactKey: Guid(36c422b9ec7a3164fb837dc110a89c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Undead Warrior Benkei.png using Guid(36c422b9ec7a3164fb837dc110a89c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58409a29319f08abd0bd57a8bea6e8c5') in 0.064635 seconds
+  Import took 0.067431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Zodiac Aries.png
+  artifactKey: Guid(98de9660dcd60814bbcab03c3d809c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Zodiac Aries.png using Guid(98de9660dcd60814bbcab03c3d809c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c67145929d83bdaac3a506bc37bfe60') in 0.058833 seconds
+  Import took 0.062116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Black Iron Minotaur Beef.png
+  artifactKey: Guid(c9167afd650254746a356272a61b3438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Black Iron Minotaur Beef.png using Guid(c9167afd650254746a356272a61b3438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab607482d9203269878c98c1ea250798') in 0.105669 seconds
+  Import took 0.110745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Hellhound Inferni.png
+  artifactKey: Guid(8c7a13a35a86dc44ab40de9d93374d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Hellhound Inferni.png using Guid(8c7a13a35a86dc44ab40de9d93374d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8ccc90062433e6dcd63ed7e05db8889') in 0.070633 seconds
+  Import took 0.075103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Red Guard B.png
+  artifactKey: Guid(1ee0179d1f9b0874693d43ddb6cdd811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Red Guard B.png using Guid(1ee0179d1f9b0874693d43ddb6cdd811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc24cc30ad92c7425b0c0ce41e976f6') in 0.111342 seconds
+  Import took 0.114341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Elemental Lords Ice Maiden.png
+  artifactKey: Guid(c1980abec00da2d4881407f8f33a2464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Elemental Lords Ice Maiden.png using Guid(c1980abec00da2d4881407f8f33a2464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0086c05dbd32c05529e83396a112cf8') in 0.122731 seconds
+  Import took 0.126696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Fallen Kings King Of Dwarves Skor.png
+  artifactKey: Guid(7750fc70c5e3fec47b59ceee22f6c926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Fallen Kings King Of Dwarves Skor.png using Guid(7750fc70c5e3fec47b59ceee22f6c926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8671d3b5f1ea2c2c010d40fb1bb49c') in 0.398066 seconds
+  Import took 0.401771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Cerberus Ptolemaios.png
+  artifactKey: Guid(a02f1670c123920408878691900a2ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Cerberus Ptolemaios.png using Guid(a02f1670c123920408878691900a2ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e6afc40687f8177136257b0858e980') in 0.476290 seconds
+  Import took 0.479643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Fallen Kings Arcane King Jeffroy.png
+  artifactKey: Guid(faec8b309a13fa94ab34b7e790aebc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Fallen Kings Arcane King Jeffroy.png using Guid(faec8b309a13fa94ab34b7e790aebc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f4958565ce1378f0ef285ceedccac89') in 0.149911 seconds
+  Import took 0.152833 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000384 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame002b.png
-  artifactKey: Guid(8c4dfbb8e21af9c4bae5991d45cfdbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame002b.png using Guid(8c4dfbb8e21af9c4bae5991d45cfdbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdad7ac7ecb3daa17682881b0dcbea6d') in 0.165173 seconds
-  Import took 0.168346 seconds .
+  path: Assets/Resources/Texture/Static/Front/Megapack III Fallen Kings King Of Giants Goken.png
+  artifactKey: Guid(b1b6cd174ae30b940bd7870bae069132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Fallen Kings King Of Giants Goken.png using Guid(b1b6cd174ae30b940bd7870bae069132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb90c0190a3bceebf0f1674f026790f') in 0.160051 seconds
+  Import took 0.163235 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame001e.png
-  artifactKey: Guid(425b0f782e268a443a9350dcdc399396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame001e.png using Guid(425b0f782e268a443a9350dcdc399396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d36cbe2f394b5b0fd46dc7afd6f8a87') in 0.093974 seconds
-  Import took 0.097588 seconds .
+  Time since last request: 0.000374 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Red Guard C.png
+  artifactKey: Guid(a32eb60562a87cc41b5a9248cf83bf8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Red Guard C.png using Guid(a32eb60562a87cc41b5a9248cf83bf8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4567468234a998d681edd460bd686136') in 0.304661 seconds
+  Import took 0.309172 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000406 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame003a.png
-  artifactKey: Guid(56ed32fe85f37474cbeed8ff622f5b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame003a.png using Guid(56ed32fe85f37474cbeed8ff622f5b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a6d74a4531875d0180dce4adb688dc') in 0.181737 seconds
-  Import took 0.184668 seconds .
+  Time since last request: 0.000436 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megpack III Fallen Kings Undead King Berthelot.png
+  artifactKey: Guid(091b2135c0b86454296b372411772597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megpack III Fallen Kings Undead King Berthelot.png using Guid(091b2135c0b86454296b372411772597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c68b2533957f7a9cc5ada29f0aeff070') in 0.082536 seconds
+  Import took 0.085931 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000385 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame001c.png
-  artifactKey: Guid(df5082af08d5ae143a427c00913d4f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame001c.png using Guid(df5082af08d5ae143a427c00913d4f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e75886b6c02577baed191215ff9ecc') in 0.190393 seconds
-  Import took 0.193595 seconds .
+  Time since last request: 0.000426 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Dragonslayer Dwarf.png
+  artifactKey: Guid(f34469d454278ad43868661ccd440325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Dragonslayer Dwarf.png using Guid(f34469d454278ad43868661ccd440325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acab9927ce723f1e8d73e69ef45f7f0c') in 0.073891 seconds
+  Import took 0.078126 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000383 seconds.
-  path: Assets/Resources/Texture/CardFlame/frame001h.png
-  artifactKey: Guid(f9e8ba6c1593557498e61781c12935cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Texture/CardFlame/frame001h.png using Guid(f9e8ba6c1593557498e61781c12935cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20f815e492142e18b41858bfb9f35506') in 0.210848 seconds
-  Import took 0.214903 seconds .
+  Time since last request: 0.000542 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Red Guard A.png
+  artifactKey: Guid(a814940e47504874d8027a860d5bc5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Red Guard A.png using Guid(a814940e47504874d8027a860d5bc5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7a147cc7cfdd6015320e49b4e16340') in 0.059777 seconds
+  Import took 0.063846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001292 seconds.
+  path: Assets/Resources/Texture/Static/Front/Megapack III Fallen Kings King Of Elves Dreyel.png
+  artifactKey: Guid(6a964007a3276914290a500d00b04763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Front/Megapack III Fallen Kings King Of Elves Dreyel.png using Guid(6a964007a3276914290a500d00b04763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17244f979d7e1b788397741b5da24df') in 0.108420 seconds
+  Import took 0.112382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.713068 seconds.
+  path: Assets/Resources/Texture/100.png
+  artifactKey: Guid(faa33cf92384c1c4984f011f77a0deb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/100.png using Guid(faa33cf92384c1c4984f011f77a0deb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137151fa0ab4248f480b4d9f48cda2ad') in 0.051971 seconds
+  Import took 0.055700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Resources/Texture/101.png
+  artifactKey: Guid(8f30fbe5120df6d43b12f6aee09a79c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/101.png using Guid(8f30fbe5120df6d43b12f6aee09a79c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd09ca04924f341161e0bff7f05c5039a') in 0.027351 seconds
+  Import took 0.031809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.062266 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Fallen Kings King Of Dwarves Skor.png
+  artifactKey: Guid(ed3f58326c0d27f48812f7c488fee474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Fallen Kings King Of Dwarves Skor.png using Guid(ed3f58326c0d27f48812f7c488fee474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5354ec843afe349b502138538369cf4a') in 0.079079 seconds
+  Import took 0.082394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Undead Warrior Benkei.png
+  artifactKey: Guid(6a1514fa84f407b43b6d84ce4d48c489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Undead Warrior Benkei.png using Guid(6a1514fa84f407b43b6d84ce4d48c489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6140a05ab603cb6cb719a9e38ba1961c') in 0.056199 seconds
+  Import took 0.058853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Hellhound Inferni.png
+  artifactKey: Guid(95a81e11dab260e4491c1cb4d5f5ae54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Hellhound Inferni.png using Guid(95a81e11dab260e4491c1cb4d5f5ae54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0a9d7612ff68e25a064e4a675b4a1f') in 0.074064 seconds
+  Import took 0.078214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Fallen Kings King Of Elves Dreyel.png
+  artifactKey: Guid(37029d64b06d5ff4f8805a73338a98ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Fallen Kings King Of Elves Dreyel.png using Guid(37029d64b06d5ff4f8805a73338a98ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd72d7bd353517cfd897c546c7843157e') in 0.068673 seconds
+  Import took 0.080010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Fallen Kings King Of Dwarves Skor.png
+  artifactKey: Guid(82be8a124e44143408351f7a7be42caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Fallen Kings King Of Dwarves Skor.png using Guid(82be8a124e44143408351f7a7be42caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbcdeeb89308ce0d26234cc0754e40bc') in 0.070715 seconds
+  Import took 0.074355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megpack III Drill Dwarf.png
+  artifactKey: Guid(06dd878cf0124f548b07f85ecdd4f3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megpack III Drill Dwarf.png using Guid(06dd878cf0124f548b07f85ecdd4f3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b102cf0ca47e4aba2290b589b3da6aca') in 0.059126 seconds
+  Import took 0.063604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Red Guard C.png
+  artifactKey: Guid(379c50fa63cd6d34e981a49dd0f914ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Red Guard C.png using Guid(379c50fa63cd6d34e981a49dd0f914ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c78a7feed0afb0e7c25b3f3ca10ffa7') in 0.064690 seconds
+  Import took 0.067556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Red Guard A.png
+  artifactKey: Guid(512ca873daf06d64ea12169e5821eaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Red Guard A.png using Guid(512ca873daf06d64ea12169e5821eaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef6b08aa2d1d2c06298c9dd459b4032') in 0.122413 seconds
+  Import took 0.126224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000787 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Fallen Kings King Of Giants Goken.png
+  artifactKey: Guid(25852788203bb47459a9a33d03d235b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Fallen Kings King Of Giants Goken.png using Guid(25852788203bb47459a9a33d03d235b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659d2b186637cc6f305bab64ffb9b7d0') in 0.124197 seconds
+  Import took 0.128865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Zodiac Aries.png
+  artifactKey: Guid(65792db3b1cf87142a0e7cfcfde263da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Zodiac Aries.png using Guid(65792db3b1cf87142a0e7cfcfde263da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd258bc3ee9f148b1828703bb3e0adf57') in 0.077962 seconds
+  Import took 0.081753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megpack III Fallen Kings Undead King Berthelot.png
+  artifactKey: Guid(8c7185989a77b394a8f8f2446920cdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megpack III Fallen Kings Undead King Berthelot.png using Guid(8c7185989a77b394a8f8f2446920cdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be9f6f292ee4dcd79b7480637c7b7b95') in 0.059131 seconds
+  Import took 0.062208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Red Guard B.png
+  artifactKey: Guid(d26644f888a8c104ca3a2e13f11d0bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Red Guard B.png using Guid(d26644f888a8c104ca3a2e13f11d0bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7adb33512c7e36075cec708de6857523') in 0.130688 seconds
+  Import took 0.133584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Void Gargoyle.png
+  artifactKey: Guid(fc177fa4c6463d646800e7b107a66d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Void Gargoyle.png using Guid(fc177fa4c6463d646800e7b107a66d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f12efff9712436ce6f8b8e47a266f24') in 0.263400 seconds
+  Import took 0.265924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Hellhound Inferni.png
+  artifactKey: Guid(d117ff377700ee44cb1aa8fbf0b05603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Hellhound Inferni.png using Guid(d117ff377700ee44cb1aa8fbf0b05603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4fd7139b7af0aefe924f6bb7f375036') in 0.132673 seconds
+  Import took 0.135425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Red Guard A.png
+  artifactKey: Guid(62c31df052c2eac4ba2f0c7882c26bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Red Guard A.png using Guid(62c31df052c2eac4ba2f0c7882c26bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f9c0ad366da274604eab92466f1e11') in 0.019074 seconds
+  Import took 0.024042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Zodiac Aries.png
+  artifactKey: Guid(97e2e768e685b1347baaea39ec6a9cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Zodiac Aries.png using Guid(97e2e768e685b1347baaea39ec6a9cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93c7e96193557881bf82a1c640594c3') in 0.105731 seconds
+  Import took 0.110091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Void Gargoyle.png
+  artifactKey: Guid(ed68e8f1c1e846542a14b2075f3caaf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Void Gargoyle.png using Guid(ed68e8f1c1e846542a14b2075f3caaf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20831f29c008462517ef3914cf1e6979') in 0.099080 seconds
+  Import took 0.101659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megpack III Drill Dwarf.png
+  artifactKey: Guid(8dde32e9f19ef6d4f9414cd8ea83f8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megpack III Drill Dwarf.png using Guid(8dde32e9f19ef6d4f9414cd8ea83f8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19679d3facaf8cf201bda21a2bdf4929') in 0.059889 seconds
+  Import took 0.072261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megpack III Fallen Kings Undead King Berthelot.png
+  artifactKey: Guid(ece7d52fafc79c046a46fc9cc976c030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megpack III Fallen Kings Undead King Berthelot.png using Guid(ece7d52fafc79c046a46fc9cc976c030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15930a88831a9be19643c3280677421b') in 0.066304 seconds
+  Import took 0.070029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Fallen Kings King Of Giants Goken.png
+  artifactKey: Guid(a506aaad1fb685341919f63eab59df3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Fallen Kings King Of Giants Goken.png using Guid(a506aaad1fb685341919f63eab59df3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a56c4e7bf22965d1d7f7cf0ad6a5a458') in 0.094775 seconds
+  Import took 0.100022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.634893 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Elemental Lords Ice Maiden.png
+  artifactKey: Guid(c01e28dd64c28984db8b715c37d455a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Elemental Lords Ice Maiden.png using Guid(c01e28dd64c28984db8b715c37d455a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9802f8ebc561e402eefec229138883b7') in 0.262019 seconds
+  Import took 0.268499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Fallen Kings Arcane King Jeffroy.png
+  artifactKey: Guid(5c44a8c77baa2374f9ba62675698200f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Fallen Kings Arcane King Jeffroy.png using Guid(5c44a8c77baa2374f9ba62675698200f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea4d33a06c78734e7d8a2510700f116') in 0.078043 seconds
+  Import took 0.081958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Dragonslayer Dwarf.png
+  artifactKey: Guid(45e8ac5a569e94841a15b0b60a68087e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Dragonslayer Dwarf.png using Guid(45e8ac5a569e94841a15b0b60a68087e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cad333435c4ce18c557894daf7baf5e') in 0.140587 seconds
+  Import took 0.143765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Dragonslayer Dwarf.png
+  artifactKey: Guid(c05755baf82318840938032a382b8bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Dragonslayer Dwarf.png using Guid(c05755baf82318840938032a382b8bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a3686d0b619e0127e0d5d3f215a79b') in 0.088541 seconds
+  Import took 0.092204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Fallen Kings Arcane King Jeffroy.png
+  artifactKey: Guid(0fc90b3ee3b34dd4ebda1ed0c7823a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Fallen Kings Arcane King Jeffroy.png using Guid(0fc90b3ee3b34dd4ebda1ed0c7823a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1acfa5bf4780b5dda87ff5c6d867cfa') in 0.278697 seconds
+  Import took 0.283221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Elemental Lords Fire Lord.png
+  artifactKey: Guid(6a114df6ce8152c4abf5e6fa79200920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Elemental Lords Fire Lord.png using Guid(6a114df6ce8152c4abf5e6fa79200920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22472107be070b30052fb9ddcbe30cae') in 0.277981 seconds
+  Import took 0.282438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000619 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Elemental Lords Ice Maiden.png
+  artifactKey: Guid(c01e28dd64c28984db8b715c37d455a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Elemental Lords Ice Maiden.png using Guid(c01e28dd64c28984db8b715c37d455a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9802f8ebc561e402eefec229138883b7') in 0.024390 seconds
+  Import took 0.028603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Elemental Lords Ice Maiden.png
+  artifactKey: Guid(2e36d83ba3b89b246ab07f999208f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Elemental Lords Ice Maiden.png using Guid(2e36d83ba3b89b246ab07f999208f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3105890849ed31ad1de5af64338d5d44') in 0.613266 seconds
+  Import took 0.616728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Black Iron Minotaur Beef.png
+  artifactKey: Guid(1ad136078bb640547a4e813899839458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Black Iron Minotaur Beef.png using Guid(1ad136078bb640547a4e813899839458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '319bf36423dadc1af4300a2968f6bbbd') in 0.388153 seconds
+  Import took 0.391483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Behemoth.png
+  artifactKey: Guid(b0843a573a1d56240bcda6cf0cac2d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Behemoth.png using Guid(b0843a573a1d56240bcda6cf0cac2d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d023e3b9a20ce584c2b03d74b056c7') in 0.069117 seconds
+  Import took 0.071569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Behemoth.png
+  artifactKey: Guid(caefc04feea250e4f8252b7f8bb3fb64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Behemoth.png using Guid(caefc04feea250e4f8252b7f8bb3fb64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc2a7610b4e14d0c584298cc4882cfe0') in 0.218885 seconds
+  Import took 0.222577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Axe Warrior Dwarf.png
+  artifactKey: Guid(d6948f82804c55145856b2c6ff203f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Axe Warrior Dwarf.png using Guid(d6948f82804c55145856b2c6ff203f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '858f4db25230130077ddacae465c509d') in 0.123800 seconds
+  Import took 0.128190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Cerberus Ptolemaios.png
+  artifactKey: Guid(ea04a1e10efe18a46879d32ccb9a030d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Cerberus Ptolemaios.png using Guid(ea04a1e10efe18a46879d32ccb9a030d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc328b3e7992d095b282cc4cc0f6021a') in 0.081514 seconds
+  Import took 0.084820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Resources/Texture/Static/Side/Megapack III Axe Warrior Dwarf.png
+  artifactKey: Guid(1721ea90703c5d04193884decc964ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Side/Megapack III Axe Warrior Dwarf.png using Guid(1721ea90703c5d04193884decc964ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ed2702849b53a3ae7954192ddf2896') in 0.065533 seconds
+  Import took 0.068902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Cerberus Ptolemaios.png
+  artifactKey: Guid(3f979f7e527c33d419f76fb987ca1080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Cerberus Ptolemaios.png using Guid(3f979f7e527c33d419f76fb987ca1080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7de8fefd31162f56b9b3ea319763bde') in 0.071879 seconds
+  Import took 0.076121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000647 seconds.
+  path: Assets/Resources/Texture/Static/Square/Megapack III Elemental Lords Fire Lord.png
+  artifactKey: Guid(c347cf0327521e341bd9bc0c12dc2b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/Static/Square/Megapack III Elemental Lords Fire Lord.png using Guid(c347cf0327521e341bd9bc0c12dc2b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae1d2778f6e85e56fefe31bda6b92af7') in 0.108682 seconds
+  Import took 0.111960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.995882 seconds.
+  path: Assets/Resources/Texture/100.png
+  artifactKey: Guid(faa33cf92384c1c4984f011f77a0deb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/100.png using Guid(faa33cf92384c1c4984f011f77a0deb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5282a5a6941e5b45fd66ee70fea9d8d7') in 0.117926 seconds
+  Import took 0.123480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000629 seconds.
+  path: Assets/Resources/Texture/101.png
+  artifactKey: Guid(8f30fbe5120df6d43b12f6aee09a79c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/101.png using Guid(8f30fbe5120df6d43b12f6aee09a79c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd08d7e3a8e7da148cc7da513a1518f40') in 0.043522 seconds
+  Import took 0.050011 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008365 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.643 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.6 MB.
+System memory in use after: 70.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1881.
+Total: 4.093200 ms (FindLiveObjects: 0.548300 ms CreateObjectMapping: 0.126000 ms MarkObjects: 3.331800 ms  DeleteObjects: 0.084800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006602 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.946 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.7 MB.
+System memory in use after: 70.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1884.
+Total: 3.987500 ms (FindLiveObjects: 0.270400 ms CreateObjectMapping: 0.213500 ms MarkObjects: 3.464500 ms  DeleteObjects: 0.037000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 203.667101 seconds.
+  path: Assets/Resources/Prefabs/Card.prefab
+  artifactKey: Guid(6c5a33fa13b6d8c478469972969bac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Card.prefab using Guid(6c5a33fa13b6d8c478469972969bac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783688e9547e54226f7296851a957b25') in 0.214760 seconds
+  Import took 0.220329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.501991 seconds.
+  path: Assets/Resources/Prefabs/Card.prefab
+  artifactKey: Guid(6c5a33fa13b6d8c478469972969bac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Card.prefab using Guid(6c5a33fa13b6d8c478469972969bac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783688e9547e54226f7296851a957b25') in 0.009729 seconds
+  Import took 0.015696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.152727 seconds.
+  path: Assets/Script
+  artifactKey: Guid(32f448bc29bef0b4a8d95f02a1a91e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(32f448bc29bef0b4a8d95f02a1a91e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfbb4037dd1210e05ba6123ea69358d7') in 0.015251 seconds
+  Import took 0.019193 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007168 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.208 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1889.
+Total: 4.096500 ms (FindLiveObjects: 0.367500 ms CreateObjectMapping: 0.123700 ms MarkObjects: 3.549800 ms  DeleteObjects: 0.052800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 257.521677 seconds.
+  path: Assets/Script/MainGameManager.cs
+  artifactKey: Guid(960f080d869efd246bc770b5e801830a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/MainGameManager.cs using Guid(960f080d869efd246bc770b5e801830a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb05676d3a304e13bba3a3d1ad7bf70') in 0.028361 seconds
+  Import took 0.032568 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005962 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.979 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1892.
+Total: 2.298000 ms (FindLiveObjects: 0.192700 ms CreateObjectMapping: 0.067800 ms MarkObjects: 1.960200 ms  DeleteObjects: 0.076100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007751 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.040 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1895.
+Total: 3.383100 ms (FindLiveObjects: 0.233800 ms CreateObjectMapping: 0.091200 ms MarkObjects: 3.011600 ms  DeleteObjects: 0.044600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010463 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.102 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1898.
+Total: 8.518200 ms (FindLiveObjects: 1.677100 ms CreateObjectMapping: 0.265800 ms MarkObjects: 6.548200 ms  DeleteObjects: 0.024300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 165.092093 seconds.
+  path: Assets/Resources/Texture/3302bd3ffa06c11c.png
+  artifactKey: Guid(7eae43459d6de124996d6e58eaf7a763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/3302bd3ffa06c11c.png using Guid(7eae43459d6de124996d6e58eaf7a763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b98f90574a724953c047b95fb25b4f') in 0.065864 seconds
+  Import took 0.069499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.192869 seconds.
+  path: Assets/Resources/Texture/3302bd3ffa06c11c.png
+  artifactKey: Guid(7eae43459d6de124996d6e58eaf7a763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Texture/3302bd3ffa06c11c.png using Guid(7eae43459d6de124996d6e58eaf7a763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a1cfd552a11f65a2d48a6048b100f9') in 0.126888 seconds
+  Import took 0.131699 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
